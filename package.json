@@ -1,0 +1,28 @@
+{
+  "name": "homewise",
+  "version": "0.0.1",
+  "description": "Smart home devices central server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gioragen/homewise.git"
+  },
+  "keywords": [
+    "home",
+    "automation",
+    "smarthome",
+    "server"
+  ],
+  "author": "Giora Genender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gioragen/homewise/issues"
+  },
+  "homepage": "https://github.com/gioragen/homewise#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
